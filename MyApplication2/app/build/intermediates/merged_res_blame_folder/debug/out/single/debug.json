@@ -1,0 +1,670 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_u2_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\u2_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_img_point.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\img_point.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_j.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\j.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_r_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\r_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_z_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\z_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_s2_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\s2_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_m_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\m_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_y_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\y_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_c1.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\c1.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_u1_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\u1_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_i2_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\i2_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_f_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\f_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_i1.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\i1.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_i1_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\i1_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_o2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\o2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_remove2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\remove2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_h_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\h_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_k.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\k.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_o1.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\o1.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_j_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\j_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_d.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\d.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\layout_activity_point.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\layout\\activity_point.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_e_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\e_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_t_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\t_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_h_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\h_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_e_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\e_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_y.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\y.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_b_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\b_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_f_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\f_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_m_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\m_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_u2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\u2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_r.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_d_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\d_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_u1_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\u1_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_v_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\v_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_a_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\a_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_k_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\k_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_l_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\l_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_o2_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\o2_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_c1_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\c1_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_g1.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\g1.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_c1_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\c1_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_u1.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\u1.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_i1_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\i1_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_o1_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\o1_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_e.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\e.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_j_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\j_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_v.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\v.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_k_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\k_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_l_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\l_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_b.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_l_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\l_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_m_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\m_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_n_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\n_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_j_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\j_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_u1_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\u1_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_b_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\b_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_c2_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\c2_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_o1_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\o1_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_p_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\p_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_a_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\a_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_s2_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\s2_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_t_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\t_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_i2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\i2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_z_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\z_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_p.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\p.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_s1.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\s1.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_g2_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\g2_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_v_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\v_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_r_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\r_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_m.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\m.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_h_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\h_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_t_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\t_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_e_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\e_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_s1_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\s1_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_s2_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\s2_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_d_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\d_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_f_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\f_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_i1_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\i1_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_o2_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\o2_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_h_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\h_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_j_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\j_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_b_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\b_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_r_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\r_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_d_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\d_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_a_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\a_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_g2_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\g2_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_k_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\k_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_g1_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\g1_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_l_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\l_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_n_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\n_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_n.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\n.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_c1_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\c1_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_g2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\g2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_k_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\k_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_u2_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\u2_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_s1_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\s1_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_c2_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\c2_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_m_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\m_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_t_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\t_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_i2_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\i2_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_e_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\e_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_r_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\r_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_v_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\v_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_v_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\v_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_p_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\p_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_n_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\n_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_y_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\y_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_g2_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\g2_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_n_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\n_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_h.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\h.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_o1_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\o1_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_d_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\d_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_confirm2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\confirm2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_a.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\a.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_f_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\f_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_g1_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\g1_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_i1_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\i1_x.png"
+    },
+    {
+        "merged": "com.yazlab.myapplication.app-merged_res-29:/layout_activity_start.xml.flat",
+        "source": "com.yazlab.myapplication.app-main-31:/layout/activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_s1_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\s1_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_c1_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\c1_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_i2_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\i2_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_c2_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\c2_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_z.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\z.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_a_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\a_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_u2_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\u2_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_u1_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\u1_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_z_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\z_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_l.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\l.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_g2_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\g2_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_o2_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\o2_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_b_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\b_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_z_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\z_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_u2_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\u2_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_s2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\s2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_t.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\t.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_g1_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\g1_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_c2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\c2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_g1_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\g1_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_i2_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\i2_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_c2_s.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\c2_s.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_p_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\p_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_s1_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\s1_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_f.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\f.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_s2_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\s2_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_p_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\p_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_y_ice2.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\y_ice2.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_y_ice.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\y_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_o2_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\o2_x.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-merged_res-29:\\drawable_o1_x.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.4\\com.yazlab.myapplication.app-main-31:\\drawable\\o1_x.png"
+    }
+]

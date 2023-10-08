@@ -1,0 +1,116 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.yazlab.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->[io.realm:realm-android-library-object-server:10.11.1] C:\Users\LENOVO\.gradle\caches\transforms-3\fb8e812cea9381ec262eeef70213b136\transformed\realm-android-library-object-server-10.11.1\AndroidManifest.xml:9:5-79
+11-->[io.realm:realm-android-library-object-server:10.11.1] C:\Users\LENOVO\.gradle\caches\transforms-3\fb8e812cea9381ec262eeef70213b136\transformed\realm-android-library-object-server-10.11.1\AndroidManifest.xml:9:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->[io.realm:realm-android-library-object-server:10.11.1] C:\Users\LENOVO\.gradle\caches\transforms-3\fb8e812cea9381ec262eeef70213b136\transformed\realm-android-library-object-server-10.11.1\AndroidManifest.xml:10:5-67
+12-->[io.realm:realm-android-library-object-server:10.11.1] C:\Users\LENOVO\.gradle\caches\transforms-3\fb8e812cea9381ec262eeef70213b136\transformed\realm-android-library-object-server-10.11.1\AndroidManifest.xml:10:22-64
+13
+14    <application
+14-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:5:5-42:19
+15        android:allowBackup="true"
+15-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:6:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.8.0] C:\Users\LENOVO\.gradle\caches\transforms-3\3274738b8320652e4d8d26c67382a13e\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+17        android:dataExtractionRules="@xml/data_extraction_rules"
+17-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:7:9-65
+18        android:debuggable="true"
+19        android:fullBackupContent="@xml/backup_rules"
+19-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:8:9-54
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:9:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:10:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:11:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:12:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.MyApplication" >
+25-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:13:9-51
+26        <activity
+26-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:15:9-21:20
+27            android:name="com.yazlab.myapplication.MainActivity"
+27-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:16:13-41
+28            android:exported="false" >
+28-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:17:13-37
+29            <meta-data
+29-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:18:13-20:36
+30                android:name="android.app.lib_name"
+30-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:19:17-52
+31                android:value="" />
+31-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:20:17-33
+32        </activity>
+33        <activity
+33-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:22:9-34:20
+34            android:name="com.yazlab.myapplication.StartActivity"
+34-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:23:13-42
+35            android:exported="true" >
+35-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:24:13-36
+36            <intent-filter>
+36-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:25:13-29:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:26:17-69
+37-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:26:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:28:17-77
+39-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:28:27-74
+40            </intent-filter>
+41
+42            <meta-data
+42-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:18:13-20:36
+43                android:name="android.app.lib_name"
+43-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:19:17-52
+44                android:value="" />
+44-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:20:17-33
+45        </activity>
+46        <activity
+46-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:35:9-41:20
+47            android:name="com.yazlab.myapplication.Point"
+47-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:36:13-34
+48            android:exported="false" >
+48-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:37:13-37
+49            <meta-data
+49-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:18:13-20:36
+50                android:name="android.app.lib_name"
+50-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:19:17-52
+51                android:value="" />
+51-->C:\Users\LENOVO\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:20:17-33
+52        </activity>
+53
+54        <provider
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LENOVO\.gradle\caches\transforms-3\ad5b15442b5ec3d48697c1ae5b0f623a\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LENOVO\.gradle\caches\transforms-3\ad5b15442b5ec3d48697c1ae5b0f623a\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+56            android:authorities="com.yazlab.myapplication.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LENOVO\.gradle\caches\transforms-3\ad5b15442b5ec3d48697c1ae5b0f623a\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LENOVO\.gradle\caches\transforms-3\ad5b15442b5ec3d48697c1ae5b0f623a\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LENOVO\.gradle\caches\transforms-3\ad5b15442b5ec3d48697c1ae5b0f623a\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LENOVO\.gradle\caches\transforms-3\ad5b15442b5ec3d48697c1ae5b0f623a\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LENOVO\.gradle\caches\transforms-3\ad5b15442b5ec3d48697c1ae5b0f623a\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LENOVO\.gradle\caches\transforms-3\1e16a74b3dea1f49fd86787a0a2c7256\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LENOVO\.gradle\caches\transforms-3\1e16a74b3dea1f49fd86787a0a2c7256\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LENOVO\.gradle\caches\transforms-3\1e16a74b3dea1f49fd86787a0a2c7256\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+64        </provider>
+65    </application>
+66
+67</manifest>
